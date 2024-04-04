@@ -1,0 +1,1001 @@
+Age_Group,Gender,Income_Group,Highest_Education,Support_for_Party
+35-44,Female,Low,PhD,Yes
+65+,Male,Medium,Master's Degree,Yes
+35-44,Male,Medium,PhD,Yes
+25-34,Male,High,Bachelor's Degree,Yes
+25-34,Female,Medium,PhD,Yes
+65+,Female,Medium,High School,No
+35-44,Female,High,Master's Degree,No
+55-64,Male,Medium,Bachelor's Degree,No
+45-54,Male,Low,PhD,No
+65+,Female,Low,Bachelor's Degree,No
+65+,Male,Low,Master's Degree,Yes
+18-24,Female,High,High School,No
+25-34,Male,Medium,Bachelor's Degree,Yes
+35-44,Male,High,Bachelor's Degree,Yes
+55-64,Male,High,High School,No
+35-44,Female,Medium,Master's Degree,Yes
+35-44,Female,Medium,Master's Degree,No
+18-24,Male,Medium,PhD,No
+45-54,Male,Low,PhD,Yes
+18-24,Male,High,High School,No
+18-24,Female,High,Master's Degree,Yes
+55-64,Male,High,PhD,Yes
+35-44,Female,High,High School,Yes
+25-34,Female,Medium,Master's Degree,Yes
+25-34,Female,Medium,Master's Degree,Yes
+18-24,Male,Low,Master's Degree,No
+65+,Female,Medium,Bachelor's Degree,No
+35-44,Female,High,PhD,Yes
+45-54,Male,Low,PhD,Yes
+65+,Male,High,Bachelor's Degree,Yes
+18-24,Male,Medium,PhD,No
+35-44,Male,High,High School,Yes
+55-64,Female,Medium,Master's Degree,Yes
+45-54,Male,Low,Bachelor's Degree,No
+25-34,Male,Low,Master's Degree,No
+55-64,Male,Low,Master's Degree,No
+18-24,Male,Medium,PhD,No
+18-24,Male,Low,Master's Degree,Yes
+25-34,Female,Medium,PhD,Yes
+35-44,Female,Low,Master's Degree,No
+45-54,Male,High,PhD,No
+55-64,Female,Low,Bachelor's Degree,Yes
+55-64,Female,High,Bachelor's Degree,No
+35-44,Male,High,Bachelor's Degree,No
+65+,Male,Medium,High School,Yes
+18-24,Male,Medium,Bachelor's Degree,No
+25-34,Male,Medium,PhD,No
+55-64,Female,High,PhD,Yes
+55-64,Male,Low,High School,No
+45-54,Female,Low,Bachelor's Degree,Yes
+55-64,Male,High,Master's Degree,No
+25-34,Male,Low,Bachelor's Degree,No
+18-24,Female,Low,High School,Yes
+18-24,Female,Low,High School,Yes
+35-44,Female,Medium,Master's Degree,Yes
+18-24,Female,Low,High School,Yes
+65+,Male,Medium,High School,Yes
+55-64,Female,High,PhD,No
+18-24,Female,Low,Bachelor's Degree,No
+25-34,Female,High,Master's Degree,No
+45-54,Female,Low,Master's Degree,No
+45-54,Male,High,Master's Degree,Yes
+65+,Female,High,High School,No
+65+,Female,Medium,Bachelor's Degree,No
+35-44,Male,Low,PhD,Yes
+65+,Female,High,Bachelor's Degree,No
+65+,Male,High,High School,Yes
+18-24,Male,Low,Bachelor's Degree,Yes
+65+,Male,Medium,PhD,Yes
+25-34,Male,Medium,High School,Yes
+18-24,Male,Medium,PhD,No
+25-34,Female,High,Master's Degree,No
+45-54,Male,High,Master's Degree,Yes
+55-64,Female,High,High School,Yes
+55-64,Female,Low,Master's Degree,No
+65+,Male,Medium,Master's Degree,No
+35-44,Male,Medium,Bachelor's Degree,Yes
+18-24,Female,Low,Bachelor's Degree,No
+45-54,Female,Low,PhD,No
+65+,Male,Low,Bachelor's Degree,No
+18-24,Male,Medium,High School,Yes
+65+,Male,High,Bachelor's Degree,No
+18-24,Male,High,Bachelor's Degree,No
+35-44,Male,High,PhD,Yes
+65+,Female,High,PhD,Yes
+45-54,Male,Low,Bachelor's Degree,No
+18-24,Male,Low,Master's Degree,No
+65+,Male,High,PhD,No
+65+,Male,Low,High School,Yes
+35-44,Female,Low,Master's Degree,No
+65+,Female,Low,Bachelor's Degree,Yes
+55-64,Female,High,Bachelor's Degree,No
+35-44,Male,High,Bachelor's Degree,Yes
+65+,Female,Medium,Bachelor's Degree,Yes
+25-34,Male,High,Bachelor's Degree,No
+55-64,Male,Medium,PhD,No
+55-64,Male,Medium,PhD,No
+35-44,Male,Medium,PhD,Yes
+25-34,Male,Medium,High School,No
+25-34,Female,High,Master's Degree,No
+25-34,Female,Medium,High School,No
+45-54,Male,High,High School,No
+25-34,Male,Medium,Bachelor's Degree,No
+25-34,Female,Low,Bachelor's Degree,No
+65+,Male,Low,PhD,No
+45-54,Female,High,Master's Degree,No
+45-54,Female,Low,Master's Degree,Yes
+65+,Female,Medium,PhD,No
+18-24,Male,Medium,Master's Degree,No
+65+,Male,Medium,Master's Degree,No
+65+,Female,Low,PhD,Yes
+65+,Male,High,PhD,No
+35-44,Female,High,Master's Degree,Yes
+65+,Male,Medium,Bachelor's Degree,No
+35-44,Female,Medium,High School,No
+65+,Male,Medium,Master's Degree,No
+18-24,Male,High,Bachelor's Degree,Yes
+35-44,Female,Low,Master's Degree,No
+55-64,Female,Medium,High School,Yes
+25-34,Female,High,PhD,Yes
+65+,Female,Low,Bachelor's Degree,No
+65+,Female,High,Bachelor's Degree,No
+35-44,Male,High,Master's Degree,Yes
+25-34,Female,Medium,Master's Degree,No
+55-64,Male,High,High School,Yes
+65+,Female,High,Master's Degree,Yes
+55-64,Male,Medium,High School,Yes
+35-44,Female,Low,PhD,No
+45-54,Male,Low,Bachelor's Degree,No
+45-54,Male,High,Master's Degree,Yes
+65+,Female,Low,High School,Yes
+45-54,Female,High,Bachelor's Degree,No
+55-64,Male,High,Bachelor's Degree,Yes
+35-44,Female,Medium,PhD,Yes
+18-24,Male,High,High School,Yes
+65+,Male,Low,High School,Yes
+25-34,Male,Low,High School,No
+18-24,Male,Low,Master's Degree,Yes
+25-34,Female,High,High School,No
+55-64,Male,Low,PhD,No
+35-44,Female,Medium,High School,No
+45-54,Female,Low,High School,No
+45-54,Female,Medium,Master's Degree,No
+18-24,Female,Low,Bachelor's Degree,Yes
+65+,Female,Medium,Bachelor's Degree,No
+65+,Female,Medium,Bachelor's Degree,Yes
+45-54,Male,Medium,Master's Degree,Yes
+18-24,Female,High,Master's Degree,No
+65+,Female,High,PhD,Yes
+35-44,Female,Medium,PhD,No
+45-54,Male,Medium,Bachelor's Degree,No
+35-44,Male,Medium,Master's Degree,Yes
+55-64,Female,High,PhD,Yes
+45-54,Male,Low,High School,No
+45-54,Male,High,Master's Degree,No
+45-54,Male,Low,PhD,No
+65+,Female,Medium,High School,Yes
+18-24,Female,High,Master's Degree,Yes
+25-34,Female,Medium,Master's Degree,Yes
+35-44,Male,Medium,Bachelor's Degree,No
+45-54,Male,Low,Bachelor's Degree,No
+35-44,Male,Medium,Bachelor's Degree,No
+18-24,Female,High,PhD,Yes
+65+,Male,Medium,High School,No
+55-64,Female,High,High School,No
+55-64,Female,High,Master's Degree,Yes
+25-34,Female,Medium,High School,Yes
+35-44,Male,Low,Master's Degree,Yes
+55-64,Male,Low,Bachelor's Degree,Yes
+65+,Male,Medium,Bachelor's Degree,No
+65+,Male,High,High School,Yes
+18-24,Female,Medium,Bachelor's Degree,No
+45-54,Female,Low,Master's Degree,Yes
+25-34,Female,High,Master's Degree,Yes
+45-54,Male,Low,High School,No
+55-64,Female,Low,PhD,No
+55-64,Female,High,Bachelor's Degree,No
+65+,Female,Low,High School,No
+55-64,Female,Medium,PhD,No
+55-64,Female,High,High School,Yes
+18-24,Male,High,High School,No
+25-34,Male,High,Bachelor's Degree,No
+18-24,Female,High,Bachelor's Degree,No
+25-34,Female,High,PhD,Yes
+55-64,Female,Medium,PhD,No
+55-64,Female,Low,Master's Degree,No
+18-24,Male,High,High School,Yes
+25-34,Male,Medium,Bachelor's Degree,No
+55-64,Male,Low,PhD,Yes
+45-54,Male,Low,PhD,Yes
+25-34,Male,High,PhD,No
+65+,Female,Medium,Master's Degree,Yes
+25-34,Female,Medium,Master's Degree,Yes
+35-44,Male,Medium,Master's Degree,No
+18-24,Female,Medium,Master's Degree,No
+18-24,Female,Medium,Bachelor's Degree,No
+55-64,Male,Low,PhD,Yes
+55-64,Female,High,Bachelor's Degree,Yes
+35-44,Female,High,Bachelor's Degree,Yes
+25-34,Male,High,Master's Degree,Yes
+55-64,Female,Medium,Master's Degree,Yes
+65+,Male,High,High School,No
+55-64,Female,Medium,Master's Degree,No
+35-44,Male,Low,Master's Degree,Yes
+35-44,Male,Low,High School,No
+18-24,Female,High,PhD,No
+45-54,Female,High,Bachelor's Degree,Yes
+25-34,Female,High,High School,No
+18-24,Male,Medium,Master's Degree,No
+25-34,Male,Low,Master's Degree,Yes
+45-54,Male,Low,Bachelor's Degree,Yes
+55-64,Male,Low,High School,No
+18-24,Female,Low,Master's Degree,Yes
+18-24,Female,Low,Master's Degree,Yes
+18-24,Female,Medium,Master's Degree,No
+55-64,Female,Low,High School,Yes
+65+,Female,Medium,Bachelor's Degree,No
+65+,Male,Medium,PhD,No
+65+,Female,High,Bachelor's Degree,Yes
+35-44,Male,Low,Bachelor's Degree,Yes
+18-24,Male,High,High School,Yes
+25-34,Female,High,Master's Degree,Yes
+25-34,Male,Low,PhD,No
+18-24,Male,Medium,High School,No
+25-34,Male,High,Master's Degree,No
+18-24,Female,Medium,Bachelor's Degree,Yes
+55-64,Female,Low,High School,No
+25-34,Male,High,Master's Degree,No
+35-44,Male,Medium,PhD,No
+55-64,Male,Low,PhD,No
+45-54,Male,High,Master's Degree,Yes
+55-64,Male,Low,Master's Degree,No
+25-34,Female,Medium,High School,Yes
+18-24,Male,Medium,PhD,Yes
+45-54,Male,Low,Master's Degree,No
+65+,Female,High,PhD,Yes
+25-34,Female,Low,High School,No
+65+,Female,High,Bachelor's Degree,No
+55-64,Female,Medium,Master's Degree,No
+18-24,Female,High,Bachelor's Degree,Yes
+55-64,Male,High,High School,Yes
+18-24,Female,High,Bachelor's Degree,No
+45-54,Female,Low,Master's Degree,No
+35-44,Male,Low,PhD,Yes
+18-24,Female,Low,Bachelor's Degree,No
+65+,Male,Low,Master's Degree,No
+18-24,Female,Medium,Master's Degree,Yes
+25-34,Male,Medium,Bachelor's Degree,No
+45-54,Female,Low,High School,No
+25-34,Male,Low,PhD,Yes
+18-24,Female,Medium,Master's Degree,Yes
+55-64,Male,Low,High School,Yes
+55-64,Female,High,Bachelor's Degree,No
+18-24,Female,Medium,Bachelor's Degree,No
+18-24,Male,Low,Master's Degree,Yes
+55-64,Female,Low,High School,No
+55-64,Female,Medium,Master's Degree,Yes
+25-34,Male,Low,PhD,No
+25-34,Male,High,High School,No
+65+,Female,High,Master's Degree,No
+55-64,Male,Low,Master's Degree,No
+18-24,Male,High,Master's Degree,Yes
+18-24,Female,Low,PhD,Yes
+55-64,Female,High,Bachelor's Degree,No
+55-64,Male,High,Bachelor's Degree,Yes
+45-54,Female,Medium,Master's Degree,Yes
+55-64,Female,Medium,PhD,No
+55-64,Female,Medium,PhD,Yes
+45-54,Male,High,Master's Degree,Yes
+25-34,Male,High,High School,No
+55-64,Male,High,PhD,Yes
+18-24,Female,Low,High School,No
+18-24,Female,High,Bachelor's Degree,No
+25-34,Male,Medium,Master's Degree,Yes
+18-24,Female,Low,PhD,No
+25-34,Female,High,Master's Degree,No
+55-64,Female,Low,Bachelor's Degree,No
+18-24,Male,High,PhD,No
+35-44,Male,High,Master's Degree,Yes
+25-34,Male,Low,Master's Degree,Yes
+25-34,Male,Low,High School,Yes
+55-64,Female,Low,Master's Degree,No
+45-54,Female,Low,Bachelor's Degree,Yes
+18-24,Male,High,PhD,No
+55-64,Male,Medium,Bachelor's Degree,No
+25-34,Female,Low,High School,No
+55-64,Male,Medium,Master's Degree,No
+65+,Female,Low,Master's Degree,Yes
+25-34,Female,High,High School,Yes
+25-34,Male,Low,Master's Degree,No
+65+,Female,Low,Bachelor's Degree,Yes
+45-54,Male,Medium,Bachelor's Degree,No
+35-44,Female,Medium,Bachelor's Degree,Yes
+45-54,Female,Low,High School,No
+35-44,Female,High,PhD,No
+35-44,Male,High,Master's Degree,No
+35-44,Female,High,High School,Yes
+55-64,Male,Low,High School,No
+35-44,Female,High,High School,Yes
+25-34,Male,Low,High School,No
+35-44,Male,Medium,High School,Yes
+18-24,Female,Low,Bachelor's Degree,Yes
+55-64,Male,Medium,Master's Degree,No
+65+,Male,Low,PhD,No
+65+,Male,High,High School,No
+18-24,Female,Medium,PhD,No
+45-54,Male,Medium,Bachelor's Degree,Yes
+25-34,Male,Medium,Bachelor's Degree,No
+65+,Male,High,PhD,Yes
+25-34,Female,High,High School,Yes
+45-54,Male,Medium,High School,Yes
+18-24,Female,High,Master's Degree,No
+45-54,Male,Medium,High School,Yes
+55-64,Male,High,High School,No
+55-64,Male,Low,PhD,No
+35-44,Male,High,PhD,No
+55-64,Male,Low,Master's Degree,Yes
+55-64,Male,Low,High School,Yes
+35-44,Male,Medium,High School,Yes
+18-24,Female,Low,PhD,No
+35-44,Female,Low,Master's Degree,No
+45-54,Male,Medium,Bachelor's Degree,Yes
+25-34,Female,Low,Bachelor's Degree,No
+55-64,Male,High,Bachelor's Degree,No
+18-24,Male,Medium,Master's Degree,Yes
+45-54,Male,Medium,Master's Degree,No
+65+,Male,High,High School,No
+35-44,Female,Medium,Master's Degree,No
+65+,Female,Low,Bachelor's Degree,No
+18-24,Female,High,Master's Degree,Yes
+25-34,Male,High,High School,No
+65+,Male,Low,High School,Yes
+35-44,Female,Low,Bachelor's Degree,No
+35-44,Male,High,Bachelor's Degree,Yes
+18-24,Male,Low,Bachelor's Degree,Yes
+25-34,Male,Low,Bachelor's Degree,Yes
+18-24,Male,Low,Bachelor's Degree,Yes
+65+,Female,High,Bachelor's Degree,Yes
+25-34,Male,Medium,PhD,Yes
+25-34,Female,Low,High School,Yes
+25-34,Female,Low,Master's Degree,Yes
+55-64,Female,High,PhD,Yes
+45-54,Female,Low,High School,Yes
+65+,Female,Low,Master's Degree,Yes
+45-54,Male,Low,Master's Degree,No
+55-64,Female,Low,Master's Degree,Yes
+45-54,Male,Low,Bachelor's Degree,No
+65+,Male,Medium,PhD,No
+18-24,Female,High,Bachelor's Degree,No
+25-34,Male,High,PhD,Yes
+18-24,Female,Low,High School,No
+25-34,Male,Low,Bachelor's Degree,No
+35-44,Male,High,High School,Yes
+25-34,Male,Medium,Master's Degree,Yes
+35-44,Male,Low,Master's Degree,No
+18-24,Female,High,High School,No
+45-54,Female,Medium,Bachelor's Degree,Yes
+25-34,Female,Medium,PhD,No
+35-44,Female,High,Bachelor's Degree,Yes
+55-64,Female,Medium,Bachelor's Degree,Yes
+55-64,Female,Low,Master's Degree,Yes
+65+,Male,Low,High School,Yes
+35-44,Female,Low,Master's Degree,No
+65+,Male,Low,High School,Yes
+65+,Female,Low,PhD,No
+25-34,Female,Medium,Bachelor's Degree,Yes
+55-64,Male,Low,Master's Degree,Yes
+45-54,Female,High,Master's Degree,Yes
+25-34,Male,Low,High School,Yes
+18-24,Male,High,High School,No
+45-54,Female,Medium,Bachelor's Degree,Yes
+18-24,Female,High,Bachelor's Degree,No
+45-54,Male,Low,PhD,No
+55-64,Male,High,High School,Yes
+45-54,Female,Medium,Master's Degree,No
+25-34,Male,Low,Bachelor's Degree,No
+25-34,Female,High,Master's Degree,No
+45-54,Female,Medium,High School,No
+35-44,Male,High,Bachelor's Degree,Yes
+55-64,Female,High,Master's Degree,No
+65+,Male,Medium,Bachelor's Degree,No
+25-34,Male,Low,Master's Degree,Yes
+35-44,Female,Low,Bachelor's Degree,Yes
+35-44,Female,Low,PhD,No
+35-44,Female,Medium,Bachelor's Degree,Yes
+65+,Male,Low,High School,Yes
+18-24,Female,Medium,Master's Degree,Yes
+18-24,Male,Low,PhD,Yes
+35-44,Male,Medium,Bachelor's Degree,No
+45-54,Female,High,High School,Yes
+45-54,Male,High,High School,No
+55-64,Male,High,PhD,Yes
+25-34,Female,Low,Bachelor's Degree,No
+25-34,Male,Low,Bachelor's Degree,No
+45-54,Male,Medium,High School,Yes
+25-34,Female,Low,Bachelor's Degree,No
+18-24,Male,Medium,High School,Yes
+45-54,Male,Low,Master's Degree,No
+35-44,Female,Low,PhD,Yes
+18-24,Male,Low,High School,No
+55-64,Male,Medium,High School,No
+35-44,Female,Medium,Bachelor's Degree,Yes
+45-54,Female,High,High School,No
+25-34,Female,High,Bachelor's Degree,No
+55-64,Female,High,Master's Degree,No
+55-64,Male,Low,Master's Degree,Yes
+25-34,Female,Low,Bachelor's Degree,Yes
+65+,Male,Medium,PhD,Yes
+25-34,Male,Low,Bachelor's Degree,Yes
+25-34,Female,Low,High School,No
+18-24,Male,Low,Bachelor's Degree,No
+35-44,Male,Medium,High School,No
+65+,Female,Low,PhD,Yes
+45-54,Female,Low,High School,No
+35-44,Female,Low,Master's Degree,Yes
+35-44,Female,Low,Master's Degree,Yes
+35-44,Male,High,PhD,Yes
+65+,Male,Medium,Master's Degree,No
+45-54,Male,Medium,PhD,No
+45-54,Male,Low,Master's Degree,No
+35-44,Female,Medium,High School,Yes
+65+,Male,Medium,High School,No
+65+,Male,Low,PhD,Yes
+45-54,Male,High,High School,No
+25-34,Female,High,Master's Degree,No
+35-44,Female,Medium,Master's Degree,No
+65+,Male,High,Master's Degree,Yes
+45-54,Female,Medium,Bachelor's Degree,No
+25-34,Male,Low,Master's Degree,No
+18-24,Male,Low,Bachelor's Degree,No
+65+,Female,High,PhD,No
+35-44,Female,Medium,Master's Degree,No
+45-54,Male,Medium,Bachelor's Degree,No
+18-24,Male,High,Bachelor's Degree,No
+18-24,Male,High,Bachelor's Degree,No
+45-54,Female,High,High School,No
+45-54,Female,Medium,Bachelor's Degree,Yes
+65+,Male,Low,Bachelor's Degree,No
+55-64,Female,Medium,PhD,Yes
+18-24,Female,Low,Master's Degree,No
+45-54,Female,High,High School,No
+55-64,Female,High,PhD,Yes
+65+,Male,Medium,High School,No
+65+,Female,Low,Master's Degree,No
+35-44,Male,Low,Master's Degree,Yes
+25-34,Female,Low,High School,Yes
+55-64,Male,High,Master's Degree,No
+45-54,Female,Medium,PhD,Yes
+45-54,Male,High,PhD,No
+65+,Male,Low,High School,No
+18-24,Female,High,PhD,No
+35-44,Male,Low,Bachelor's Degree,No
+35-44,Female,Medium,Bachelor's Degree,Yes
+35-44,Male,High,High School,No
+65+,Female,Medium,PhD,No
+55-64,Male,High,Bachelor's Degree,No
+25-34,Female,Low,High School,No
+55-64,Female,High,Bachelor's Degree,Yes
+25-34,Male,High,Bachelor's Degree,No
+18-24,Female,Medium,Bachelor's Degree,No
+65+,Female,High,Bachelor's Degree,Yes
+65+,Male,High,Bachelor's Degree,Yes
+45-54,Male,Low,High School,No
+65+,Male,High,Bachelor's Degree,No
+65+,Male,Low,PhD,Yes
+65+,Male,High,PhD,No
+25-34,Female,Medium,Bachelor's Degree,Yes
+25-34,Female,Medium,Bachelor's Degree,No
+35-44,Male,High,High School,No
+55-64,Male,Low,Bachelor's Degree,No
+18-24,Male,Low,Master's Degree,No
+35-44,Female,High,Bachelor's Degree,No
+35-44,Male,Medium,PhD,No
+25-34,Male,Low,High School,No
+55-64,Female,High,Bachelor's Degree,No
+18-24,Female,Medium,PhD,No
+65+,Female,Medium,Master's Degree,No
+45-54,Male,Medium,High School,Yes
+65+,Male,High,Bachelor's Degree,Yes
+45-54,Male,Medium,PhD,Yes
+18-24,Female,High,High School,No
+35-44,Male,Medium,Bachelor's Degree,Yes
+45-54,Female,Low,Bachelor's Degree,No
+45-54,Male,Low,PhD,No
+18-24,Male,Low,PhD,Yes
+55-64,Female,Medium,High School,Yes
+35-44,Female,High,High School,No
+45-54,Female,High,Bachelor's Degree,No
+25-34,Male,High,Master's Degree,No
+65+,Female,Medium,Bachelor's Degree,Yes
+65+,Female,Medium,High School,Yes
+35-44,Female,Low,Bachelor's Degree,No
+25-34,Female,Medium,High School,No
+35-44,Male,High,Bachelor's Degree,No
+35-44,Female,Low,High School,No
+18-24,Female,Medium,High School,No
+55-64,Male,High,Master's Degree,No
+65+,Female,Low,PhD,Yes
+45-54,Female,High,PhD,Yes
+45-54,Female,High,Bachelor's Degree,No
+55-64,Female,High,PhD,Yes
+35-44,Male,Low,PhD,Yes
+25-34,Male,Low,High School,Yes
+45-54,Male,High,PhD,No
+65+,Female,Medium,Master's Degree,No
+55-64,Male,High,High School,No
+25-34,Male,Low,PhD,Yes
+35-44,Female,Low,PhD,Yes
+35-44,Female,Low,High School,No
+65+,Male,Low,PhD,Yes
+18-24,Male,Low,PhD,Yes
+65+,Male,High,Master's Degree,Yes
+35-44,Female,High,Bachelor's Degree,Yes
+25-34,Female,High,PhD,No
+35-44,Female,High,Master's Degree,Yes
+35-44,Male,Medium,PhD,No
+18-24,Female,High,Master's Degree,No
+65+,Female,High,Bachelor's Degree,No
+25-34,Female,Low,Bachelor's Degree,No
+25-34,Female,Low,Master's Degree,Yes
+25-34,Female,Medium,Master's Degree,No
+45-54,Female,Low,High School,Yes
+65+,Female,High,High School,Yes
+18-24,Male,Medium,Master's Degree,No
+55-64,Male,Low,PhD,No
+55-64,Male,High,Bachelor's Degree,Yes
+35-44,Male,Low,Bachelor's Degree,Yes
+65+,Male,Low,Bachelor's Degree,No
+35-44,Female,High,Master's Degree,Yes
+65+,Male,High,Bachelor's Degree,No
+55-64,Male,Medium,High School,No
+18-24,Male,Low,Master's Degree,Yes
+45-54,Male,High,Bachelor's Degree,Yes
+25-34,Male,High,Bachelor's Degree,No
+55-64,Male,Medium,Bachelor's Degree,No
+65+,Male,High,Bachelor's Degree,No
+45-54,Male,High,Master's Degree,No
+65+,Female,High,Bachelor's Degree,No
+55-64,Male,Low,High School,Yes
+18-24,Male,Medium,PhD,No
+25-34,Male,High,Bachelor's Degree,No
+35-44,Male,High,Bachelor's Degree,Yes
+18-24,Male,Medium,High School,Yes
+18-24,Male,High,PhD,No
+35-44,Male,Low,Bachelor's Degree,No
+25-34,Female,Low,Bachelor's Degree,Yes
+45-54,Female,High,High School,No
+55-64,Male,Medium,Master's Degree,No
+35-44,Male,Medium,High School,Yes
+45-54,Female,Low,Master's Degree,No
+55-64,Male,Low,Bachelor's Degree,No
+35-44,Male,Low,High School,No
+18-24,Female,High,PhD,Yes
+65+,Male,Low,High School,Yes
+55-64,Female,Low,Master's Degree,Yes
+25-34,Male,High,PhD,No
+45-54,Female,Medium,High School,No
+25-34,Male,High,Bachelor's Degree,No
+18-24,Male,Medium,High School,Yes
+55-64,Female,High,Bachelor's Degree,No
+65+,Female,High,PhD,Yes
+25-34,Male,High,High School,Yes
+55-64,Female,Low,High School,Yes
+65+,Male,Medium,Master's Degree,Yes
+18-24,Female,High,Bachelor's Degree,Yes
+18-24,Female,Low,Master's Degree,Yes
+65+,Male,High,High School,No
+25-34,Female,High,PhD,No
+65+,Male,High,Bachelor's Degree,No
+45-54,Male,Low,High School,Yes
+25-34,Female,High,PhD,No
+18-24,Male,Low,Bachelor's Degree,No
+18-24,Male,High,Bachelor's Degree,No
+18-24,Female,High,Bachelor's Degree,Yes
+45-54,Male,High,Bachelor's Degree,Yes
+18-24,Male,Low,High School,No
+35-44,Female,Low,Bachelor's Degree,No
+25-34,Female,High,Bachelor's Degree,No
+18-24,Female,Low,PhD,No
+18-24,Male,Medium,Bachelor's Degree,Yes
+55-64,Male,High,Master's Degree,Yes
+55-64,Male,Low,PhD,No
+45-54,Male,Low,PhD,Yes
+65+,Female,Low,High School,Yes
+45-54,Female,High,Bachelor's Degree,No
+45-54,Female,High,PhD,No
+55-64,Female,High,PhD,No
+45-54,Female,Medium,High School,No
+18-24,Female,Low,Bachelor's Degree,No
+35-44,Male,Medium,PhD,Yes
+55-64,Female,Medium,Master's Degree,Yes
+45-54,Female,High,Bachelor's Degree,Yes
+25-34,Female,High,PhD,Yes
+65+,Male,Medium,PhD,Yes
+18-24,Female,High,PhD,Yes
+45-54,Male,Low,Bachelor's Degree,No
+18-24,Female,High,High School,No
+35-44,Male,Low,High School,No
+18-24,Female,Medium,PhD,Yes
+35-44,Male,Low,Bachelor's Degree,Yes
+35-44,Male,Medium,High School,Yes
+25-34,Male,High,Bachelor's Degree,Yes
+35-44,Male,Low,PhD,Yes
+65+,Female,Low,PhD,Yes
+45-54,Male,Low,PhD,No
+25-34,Female,Low,High School,No
+18-24,Female,High,Bachelor's Degree,No
+55-64,Female,Low,Bachelor's Degree,Yes
+35-44,Female,Medium,Bachelor's Degree,No
+45-54,Male,Low,PhD,No
+55-64,Male,High,Bachelor's Degree,No
+65+,Male,High,PhD,No
+55-64,Female,High,Master's Degree,No
+65+,Male,High,PhD,Yes
+45-54,Male,Low,PhD,No
+65+,Female,Medium,Master's Degree,No
+18-24,Male,Low,Master's Degree,Yes
+18-24,Male,Medium,Master's Degree,No
+45-54,Female,Medium,PhD,No
+65+,Male,High,Master's Degree,No
+35-44,Female,Medium,PhD,Yes
+55-64,Male,Low,Bachelor's Degree,Yes
+25-34,Female,High,Master's Degree,Yes
+18-24,Male,Low,High School,No
+45-54,Female,High,Bachelor's Degree,No
+45-54,Female,Low,High School,No
+65+,Male,Medium,Bachelor's Degree,No
+45-54,Female,High,High School,Yes
+35-44,Male,Medium,Master's Degree,Yes
+25-34,Male,High,Master's Degree,Yes
+25-34,Male,Medium,Bachelor's Degree,Yes
+35-44,Female,Medium,PhD,No
+55-64,Female,Medium,Bachelor's Degree,Yes
+65+,Male,High,Master's Degree,Yes
+45-54,Female,Medium,Bachelor's Degree,No
+35-44,Female,Medium,PhD,No
+35-44,Male,High,High School,No
+18-24,Female,High,PhD,Yes
+55-64,Male,High,PhD,Yes
+55-64,Male,Medium,PhD,Yes
+18-24,Male,High,PhD,Yes
+18-24,Male,Low,Master's Degree,Yes
+18-24,Female,Medium,High School,Yes
+55-64,Female,Medium,PhD,No
+55-64,Male,Medium,Bachelor's Degree,No
+45-54,Male,High,PhD,No
+25-34,Male,Low,High School,Yes
+65+,Female,Low,Master's Degree,Yes
+25-34,Male,High,PhD,No
+45-54,Male,Low,High School,No
+25-34,Male,Medium,PhD,No
+65+,Female,Low,PhD,Yes
+18-24,Female,Low,High School,No
+35-44,Male,High,PhD,No
+55-64,Female,Low,High School,No
+35-44,Male,Low,PhD,No
+18-24,Female,Medium,Master's Degree,Yes
+25-34,Female,Medium,Master's Degree,Yes
+45-54,Female,High,PhD,Yes
+45-54,Female,High,Bachelor's Degree,No
+18-24,Male,High,PhD,No
+55-64,Male,High,High School,Yes
+18-24,Male,High,PhD,No
+45-54,Female,Medium,High School,No
+35-44,Male,Low,High School,No
+45-54,Female,Medium,PhD,No
+55-64,Male,High,Bachelor's Degree,No
+55-64,Female,High,High School,No
+65+,Female,Medium,Bachelor's Degree,No
+45-54,Male,Medium,Master's Degree,No
+35-44,Female,Medium,PhD,Yes
+35-44,Male,Medium,Master's Degree,Yes
+25-34,Female,Medium,Master's Degree,Yes
+55-64,Male,High,Bachelor's Degree,No
+55-64,Female,High,Master's Degree,No
+18-24,Male,Medium,High School,Yes
+35-44,Male,High,Master's Degree,Yes
+25-34,Male,Low,PhD,No
+35-44,Female,Low,Bachelor's Degree,Yes
+45-54,Female,High,Master's Degree,Yes
+25-34,Male,Medium,PhD,Yes
+55-64,Female,Low,PhD,No
+35-44,Male,High,PhD,No
+35-44,Female,Medium,PhD,No
+25-34,Female,High,Bachelor's Degree,Yes
+25-34,Female,Low,Bachelor's Degree,Yes
+45-54,Female,Medium,High School,Yes
+25-34,Male,Medium,High School,Yes
+65+,Male,High,Bachelor's Degree,No
+18-24,Male,Medium,High School,Yes
+45-54,Male,High,PhD,No
+18-24,Female,High,PhD,Yes
+55-64,Female,High,Master's Degree,Yes
+25-34,Female,Medium,Bachelor's Degree,No
+55-64,Female,High,High School,No
+25-34,Female,Medium,PhD,Yes
+25-34,Male,High,Master's Degree,Yes
+35-44,Female,High,High School,No
+25-34,Female,Low,High School,Yes
+65+,Male,Low,Master's Degree,No
+65+,Male,Medium,Bachelor's Degree,No
+35-44,Male,Medium,PhD,Yes
+35-44,Female,High,PhD,Yes
+18-24,Male,Medium,Bachelor's Degree,Yes
+18-24,Female,Medium,PhD,No
+65+,Male,Medium,Master's Degree,No
+55-64,Female,Medium,Bachelor's Degree,Yes
+18-24,Male,Medium,Bachelor's Degree,Yes
+55-64,Male,Medium,PhD,Yes
+18-24,Male,High,High School,No
+25-34,Male,High,PhD,Yes
+18-24,Male,Low,Bachelor's Degree,No
+35-44,Female,Low,PhD,Yes
+35-44,Female,Low,PhD,No
+45-54,Female,High,Master's Degree,Yes
+25-34,Male,Low,Bachelor's Degree,Yes
+45-54,Male,High,Master's Degree,Yes
+35-44,Female,Low,High School,No
+65+,Male,Low,Bachelor's Degree,Yes
+18-24,Female,Low,Bachelor's Degree,No
+35-44,Male,Low,High School,Yes
+45-54,Male,Medium,Bachelor's Degree,Yes
+25-34,Male,Medium,PhD,Yes
+65+,Female,Medium,PhD,No
+55-64,Male,Medium,PhD,Yes
+25-34,Female,Low,High School,Yes
+18-24,Male,High,Bachelor's Degree,No
+25-34,Female,High,PhD,Yes
+35-44,Male,High,Master's Degree,Yes
+35-44,Female,Medium,Bachelor's Degree,Yes
+25-34,Male,High,Master's Degree,Yes
+25-34,Male,Medium,Bachelor's Degree,Yes
+45-54,Female,Low,PhD,No
+55-64,Female,Low,Bachelor's Degree,Yes
+25-34,Male,Medium,Bachelor's Degree,Yes
+35-44,Male,Medium,Master's Degree,Yes
+65+,Male,Medium,Bachelor's Degree,No
+18-24,Female,Low,Master's Degree,No
+65+,Male,High,High School,No
+55-64,Female,Low,High School,No
+65+,Female,High,Bachelor's Degree,Yes
+35-44,Male,Low,PhD,No
+25-34,Female,Low,Master's Degree,Yes
+18-24,Female,High,Master's Degree,No
+45-54,Female,Medium,Master's Degree,No
+45-54,Male,Low,Bachelor's Degree,No
+35-44,Female,High,Bachelor's Degree,No
+18-24,Female,High,Bachelor's Degree,No
+65+,Female,Medium,PhD,No
+65+,Female,Medium,PhD,No
+25-34,Female,High,PhD,Yes
+35-44,Female,High,High School,Yes
+18-24,Male,Low,PhD,Yes
+18-24,Female,Medium,Bachelor's Degree,No
+25-34,Male,Low,PhD,Yes
+25-34,Male,Low,Bachelor's Degree,Yes
+45-54,Male,High,High School,Yes
+35-44,Female,Low,Bachelor's Degree,Yes
+25-34,Male,Medium,High School,No
+25-34,Male,Medium,Bachelor's Degree,No
+55-64,Male,High,Master's Degree,Yes
+18-24,Male,Medium,Master's Degree,Yes
+35-44,Male,High,Bachelor's Degree,Yes
+25-34,Female,High,Master's Degree,No
+25-34,Male,Medium,High School,No
+45-54,Female,High,Bachelor's Degree,No
+45-54,Male,High,Master's Degree,No
+45-54,Male,Medium,Bachelor's Degree,No
+55-64,Female,Medium,High School,No
+55-64,Female,High,High School,Yes
+45-54,Male,High,Bachelor's Degree,No
+45-54,Male,Medium,Bachelor's Degree,Yes
+25-34,Male,Low,Bachelor's Degree,No
+55-64,Female,Low,PhD,Yes
+25-34,Male,High,PhD,Yes
+25-34,Female,High,PhD,No
+45-54,Male,Low,Master's Degree,No
+65+,Female,Medium,Bachelor's Degree,No
+55-64,Female,Medium,PhD,No
+35-44,Female,High,High School,Yes
+35-44,Male,Medium,Bachelor's Degree,Yes
+65+,Female,High,High School,No
+25-34,Male,Low,High School,No
+25-34,Female,Medium,Master's Degree,Yes
+18-24,Female,Medium,PhD,No
+35-44,Female,Low,High School,No
+55-64,Female,High,PhD,Yes
+65+,Male,Medium,High School,No
+35-44,Male,High,High School,Yes
+55-64,Female,High,Bachelor's Degree,Yes
+18-24,Male,Low,Master's Degree,No
+25-34,Male,Medium,PhD,Yes
+45-54,Male,Medium,High School,Yes
+35-44,Male,Low,Bachelor's Degree,Yes
+55-64,Male,Low,Bachelor's Degree,Yes
+65+,Female,Medium,Bachelor's Degree,No
+55-64,Male,High,Bachelor's Degree,No
+55-64,Female,High,PhD,Yes
+45-54,Male,High,PhD,Yes
+35-44,Female,Medium,PhD,No
+35-44,Male,Medium,High School,Yes
+25-34,Male,High,PhD,No
+25-34,Male,Low,High School,No
+25-34,Male,High,High School,Yes
+25-34,Female,Low,Master's Degree,Yes
+25-34,Female,High,PhD,Yes
+35-44,Female,High,Master's Degree,No
+65+,Male,High,Master's Degree,No
+18-24,Male,Medium,PhD,Yes
+18-24,Female,Low,High School,Yes
+65+,Male,Low,Bachelor's Degree,Yes
+18-24,Male,High,High School,No
+18-24,Male,Low,PhD,No
+35-44,Male,Medium,High School,No
+18-24,Female,Medium,PhD,No
+25-34,Male,High,Bachelor's Degree,No
+35-44,Male,Medium,PhD,No
+45-54,Male,Low,PhD,No
+45-54,Male,Low,PhD,No
+35-44,Female,Medium,High School,No
+45-54,Male,High,Master's Degree,No
+25-34,Female,Low,Bachelor's Degree,No
+65+,Female,Low,Master's Degree,No
+65+,Male,Low,Master's Degree,Yes
+35-44,Male,Low,Master's Degree,No
+45-54,Female,Low,PhD,No
+35-44,Female,Low,PhD,Yes
+65+,Female,High,PhD,No
+45-54,Male,Low,PhD,Yes
+55-64,Male,Medium,High School,No
+18-24,Female,High,Master's Degree,Yes
+55-64,Male,High,High School,No
+45-54,Female,High,High School,Yes
+55-64,Female,Medium,PhD,No
+18-24,Male,Medium,High School,Yes
+18-24,Female,Low,PhD,No
+65+,Female,High,Master's Degree,Yes
+18-24,Male,Medium,Master's Degree,Yes
+25-34,Female,Low,High School,Yes
+25-34,Male,Low,PhD,Yes
+45-54,Male,High,High School,No
+18-24,Female,Medium,High School,No
+65+,Male,Medium,Bachelor's Degree,No
+25-34,Female,Low,High School,Yes
+18-24,Female,Low,Bachelor's Degree,No
+35-44,Male,High,High School,No
+35-44,Male,High,Bachelor's Degree,No
+65+,Male,Low,High School,Yes
+18-24,Male,Medium,High School,No
+45-54,Female,Low,High School,No
+35-44,Female,Medium,High School,Yes
+65+,Male,Low,PhD,Yes
+55-64,Male,High,PhD,Yes
+25-34,Female,High,PhD,Yes
+65+,Female,Medium,Master's Degree,No
+45-54,Male,Medium,High School,Yes
+25-34,Male,High,PhD,No
+65+,Female,Low,Bachelor's Degree,No
+25-34,Female,Medium,Bachelor's Degree,Yes
+18-24,Female,Medium,Bachelor's Degree,No
+18-24,Female,Medium,Bachelor's Degree,No
+35-44,Male,Low,High School,No
+55-64,Female,Medium,Master's Degree,Yes
+55-64,Female,Low,High School,No
+18-24,Female,High,High School,No
+45-54,Female,High,High School,Yes
+25-34,Female,High,Master's Degree,No
+35-44,Male,Medium,Bachelor's Degree,No
+35-44,Male,Medium,High School,No
+65+,Male,High,Bachelor's Degree,Yes
+25-34,Female,High,Master's Degree,No
+55-64,Male,Low,Bachelor's Degree,No
+45-54,Male,Medium,High School,No
+18-24,Female,Medium,Master's Degree,Yes
+45-54,Male,High,PhD,Yes
+35-44,Female,Medium,Bachelor's Degree,Yes
+55-64,Male,Low,Master's Degree,Yes
+55-64,Female,High,Bachelor's Degree,Yes
+45-54,Male,Medium,Master's Degree,Yes
+65+,Male,Low,Master's Degree,Yes
+55-64,Female,Low,PhD,No
+18-24,Male,Medium,High School,Yes
+55-64,Male,Medium,Master's Degree,Yes
+45-54,Female,Low,High School,No
+55-64,Female,Low,Master's Degree,Yes
+55-64,Male,High,Master's Degree,No
+55-64,Female,High,Bachelor's Degree,No
+35-44,Male,Low,Master's Degree,Yes
+45-54,Female,Medium,PhD,No
+55-64,Male,High,PhD,No
+55-64,Male,Medium,High School,Yes
+45-54,Male,High,PhD,Yes
+45-54,Male,Low,PhD,Yes
+65+,Female,Medium,PhD,Yes
+65+,Male,High,Master's Degree,Yes
+35-44,Male,High,Bachelor's Degree,No
+65+,Female,Medium,High School,No
+35-44,Male,High,PhD,Yes
+45-54,Male,Medium,PhD,No
+18-24,Female,High,Master's Degree,Yes
+65+,Female,Medium,Master's Degree,Yes
+45-54,Female,Low,PhD,Yes
+25-34,Female,Low,High School,Yes
+65+,Female,High,High School,Yes
+25-34,Female,High,Master's Degree,Yes
+45-54,Female,Medium,High School,No
+18-24,Male,Medium,High School,Yes
+18-24,Female,Medium,PhD,Yes
+65+,Male,Medium,Bachelor's Degree,No
+25-34,Male,Medium,Master's Degree,No
+45-54,Male,Low,High School,Yes
+55-64,Female,Low,High School,No
+35-44,Female,High,Master's Degree,No
+18-24,Female,High,Bachelor's Degree,Yes
+35-44,Female,Medium,PhD,No
+35-44,Male,Medium,Bachelor's Degree,Yes
+25-34,Female,High,PhD,No
+45-54,Male,Low,PhD,Yes
+18-24,Female,High,Bachelor's Degree,Yes
+35-44,Female,Medium,PhD,Yes
+55-64,Male,Low,Bachelor's Degree,Yes
+55-64,Female,High,PhD,Yes
+55-64,Female,Medium,PhD,No
+65+,Male,Medium,PhD,Yes
+25-34,Male,High,PhD,No
+55-64,Female,Low,High School,Yes
+55-64,Female,High,Bachelor's Degree,No
+18-24,Female,Low,Master's Degree,Yes
+55-64,Female,Medium,PhD,No
+18-24,Female,Low,Bachelor's Degree,Yes
+25-34,Female,Low,Master's Degree,Yes
+18-24,Male,Low,High School,Yes
+18-24,Female,Low,PhD,No
+25-34,Female,Low,Bachelor's Degree,Yes
+45-54,Male,Medium,PhD,Yes
+65+,Male,High,High School,Yes
+55-64,Female,Medium,PhD,Yes
+25-34,Female,Medium,Master's Degree,No
+25-34,Female,Medium,Master's Degree,No
+25-34,Female,Low,Master's Degree,No
+65+,Male,Low,Master's Degree,Yes
+65+,Male,High,Bachelor's Degree,No
+45-54,Male,Medium,Master's Degree,Yes
+55-64,Male,High,High School,No
+25-34,Male,High,High School,No
+35-44,Female,Medium,Master's Degree,Yes
+65+,Female,Low,Master's Degree,No
+18-24,Female,Low,High School,No
+65+,Female,Medium,PhD,No
+45-54,Female,Medium,High School,Yes
+35-44,Female,High,Master's Degree,No
+65+,Female,Low,Bachelor's Degree,Yes
+35-44,Female,Medium,High School,No
+35-44,Female,Low,Bachelor's Degree,No
+65+,Female,Medium,Master's Degree,Yes
+25-34,Male,High,Master's Degree,Yes
+45-54,Female,Low,PhD,No
+45-54,Male,High,High School,Yes
+25-34,Male,Medium,PhD,No
+35-44,Male,Medium,High School,No
+18-24,Female,High,Master's Degree,No
+45-54,Male,Low,Bachelor's Degree,Yes
+18-24,Female,Medium,Bachelor's Degree,Yes
+18-24,Male,Low,High School,No
+45-54,Male,Medium,Master's Degree,No
+35-44,Male,Medium,High School,Yes
+55-64,Female,High,Master's Degree,Yes
+25-34,Female,Medium,Master's Degree,Yes
+55-64,Male,High,Bachelor's Degree,No
+65+,Male,High,High School,Yes
+65+,Male,Medium,Master's Degree,Yes
+25-34,Male,High,Bachelor's Degree,No
+45-54,Female,Low,High School,No
+25-34,Male,Low,PhD,Yes
+25-34,Female,Medium,High School,No
+45-54,Female,Medium,PhD,No
+45-54,Male,High,PhD,No
+18-24,Male,High,Master's Degree,Yes
+35-44,Male,High,Bachelor's Degree,No
+18-24,Male,Medium,Master's Degree,Yes
+35-44,Male,Medium,PhD,Yes
+35-44,Female,Low,Master's Degree,No
+65+,Male,Medium,Bachelor's Degree,No
+35-44,Female,Medium,PhD,No
+65+,Male,Low,Bachelor's Degree,No
+55-64,Male,Medium,High School,Yes
+25-34,Female,Medium,High School,No
+65+,Female,High,Master's Degree,Yes
+18-24,Male,Low,Bachelor's Degree,No
+55-64,Male,Low,Master's Degree,Yes
+35-44,Female,Low,PhD,Yes
+35-44,Male,Medium,Bachelor's Degree,No
+65+,Female,High,PhD,Yes
+35-44,Male,Medium,High School,No
+35-44,Male,Medium,High School,Yes
+65+,Female,Medium,Bachelor's Degree,No
+18-24,Male,Low,Master's Degree,Yes
+35-44,Male,Medium,Bachelor's Degree,No
+35-44,Female,Low,High School,Yes
+65+,Male,High,Master's Degree,Yes
