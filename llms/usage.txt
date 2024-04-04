@@ -1,0 +1,56 @@
+Me:ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+> simulated_data <- simulated_party_support_data
+> sim_party_support_model <- stan_glm(
++   formula = Support_for_Party ~ Age_Group + Gender + Income_Group + Highest_Education,  
++   data = simulated_data,   
++   family = binomial(link = "logit"),  
++   prior = normal(location = 0, scale = 2.5),  
++   prior_intercept = normal(location = 0, scale = 2.5),  
++   prior_aux = exponential(rate = 1),  
++   seed = 123,  
++   prior_PD = TRUE  
++ )
+错误: Outcome variable can't be type 'character'.
+
+Chatgpt:出现错误的原因是模型的因变量 Support_for_Party 是字符类型，而 logistic 回归模型要求因变量必须是二元的（即二分类变量）。因此，需要将因变量转换为二元数值型变量，例如将 "Yes" 编码为 1，"No" 编码为 0。
+
+以下是修改后的代码，对 Support_for_Party 变量进行转换：
+
+r
+Copy code
+# Load necessary libraries
+library(rstanarm)
+library(readr)
+
+# Read the simulated data
+simulated_data <- read_csv("simulated_party_support_data.csv")
+
+# Convert Support_for_Party variable to binary (0/1)
+simulated_data$Support_for_Party <- ifelse(simulated_data$Support_for_Party == "Yes", 1, 0)
+
+# Fit the model using rstanarm
+sim_party_support_model <- stan_glm(
+  formula = Support_for_Party ~ Age_Group + Gender + Income_Group + Highest_Education,  
+  data = simulated_data,   
+  family = binomial(link = "logit"),  
+  prior = normal(location = 0, scale = 2.5),  
+  prior_intercept = normal(location = 0, scale = 2.5),  
+  prior_aux = exponential(rate = 1),  
+  seed = 123,  
+  prior_PD = TRUE  
+)
+
+# Beep to indicate completion
+beep()
+
+# Save the model object
+saveRDS(
+  sim_party_support_model,
+  file = "simulated_party_support_model.rds"
+)
+这段代码首先将 Support_for_Party 变量转换为二元数值型变量，然后再进行 logistic 回归模型的拟合。
+
+
+
+
+
